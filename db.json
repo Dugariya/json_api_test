@@ -1,0 +1,262 @@
+{
+  "simulationconfig": [
+    {
+      "version": "1",
+      "mode": 1,
+      "id": 27,
+      "simulatioconfigData": {
+        "defaultRatingWeights": {
+          "conversion_score": 4,
+          "predicted_traffic_score": 1,
+          "traffic_ratio": 4.5,
+          "traffic_log_value": 205,
+          "actual_traffic_penalization_depth_cutoff": 10,
+          "predicted_primary_region_score": 20,
+          "crawl_score": 27,
+          "min_visits": 55,
+          "primary_visits": 21,
+          "uncrawled_papers_priority": 0.5,
+          "priority_papers": 2.5,
+          "payment_score": 1,
+          "bounce_score": 3
+        },
+        "defaultExponentialWeights": {
+          "for_conversion": 12,
+          "for_traffic_basic": 50,
+          "for_traffic_ratio": 10,
+          "for_primary": 51
+        },
+        "defaultQualityWeights": {
+          "num_top_dcs_results": 20,
+          "dcs_score": 1,
+          "conversion_score": 4.0,
+          "predicted_primary_region_score": 4.5
+        },
+        "defaultOtherParams": {
+          "related_content_count": 20,
+          "extra_related_count": 70,
+          "max_related_content": 45,
+          "span_replacement": 80,
+          "r_score_cutoff": 6.5,
+          "max_replacement_rate": 4.4,
+          "allow_topic_depth": 1
+        }
+      }
+    },
+    {
+      "version": "5",
+      "mode": 1,
+      "id": 15,
+      "simulatioconfigData": {
+        "defaultRatingWeights": {
+          "conversion_score": 3.5,
+          "predicted_traffic_score": 0,
+          "traffic_ratio": 1.5,
+          "traffic_log_value": 105,
+          "actual_traffic_penalization_depth_cutoff": 5,
+          "predicted_primary_region_score": 10.0,
+          "crawl_score": 12,
+          "min_visits": 10,
+          "primary_visits": 5,
+          "uncrawled_papers_priority": 0.8,
+          "priority_papers": 1.5,
+          "payment_score": 7,
+          "bounce_score": 0.3
+        },
+        "defaultExponentialWeights": {
+          "for_conversion": 1.0,
+          "for_traffic_basic": 1.0,
+          "for_traffic_ratio": 1.0,
+          "for_primary": 5
+        },
+        "defaultQualityWeights": {
+          "num_top_dcs_results": 80,
+          "dcs_score": 1.2,
+          "conversion_score": 2.0,
+          "predicted_primary_region_score": 1.5
+        },
+        "defaultOtherParams": {
+          "related_content_count": 10,
+          "extra_related_count": 10,
+          "max_related_content": 15,
+          "span_replacement": 30,
+          "r_score_cutoff": 0.5,
+          "max_replacement_rate": 0.4,
+          "allow_topic_depth": 3
+        }
+      }
+    },
+    {
+      "version": "4",
+      "mode": 1,
+      "id": 21,
+      "simulatioconfigData": {
+        "defaultRatingWeights": {
+          "conversion_score": 3.5,
+          "predicted_traffic_score": 0,
+          "traffic_ratio": 1.5,
+          "traffic_log_value": 105,
+          "actual_traffic_penalization_depth_cutoff": 5,
+          "predicted_primary_region_score": 10.0,
+          "crawl_score": 12,
+          "min_visits": 10,
+          "primary_visits": 5,
+          "uncrawled_papers_priority": 0.8,
+          "priority_papers": 1.5,
+          "payment_score": 7,
+          "bounce_score": 0.3
+        },
+        "defaultExponentialWeights": {
+          "for_conversion": 1.0,
+          "for_traffic_basic": 1.0,
+          "for_traffic_ratio": 1.0,
+          "for_primary": 5
+        },
+        "defaultQualityWeights": {
+          "num_top_dcs_results": 80,
+          "dcs_score": 1.2,
+          "conversion_score": 2.0,
+          "predicted_primary_region_score": 1.5
+        },
+        "defaultOtherParams": {
+          "related_content_count": 10,
+          "extra_related_count": 10,
+          "max_related_content": 15,
+          "span_replacement": 30,
+          "r_score_cutoff": 0.5,
+          "max_replacement_rate": 0.4,
+          "allow_topic_depth": 3
+        }
+      }
+    },
+    {
+      "version": "1",
+      "mode": 0,
+      "id": 27,
+      "simulatioconfigData": {
+        "defaultRatingWeights": {
+          "conversion_score": 4.5,
+          "predicted_traffic_score": 1,
+          "traffic_ratio": 0.9,
+          "traffic_log_value": 205,
+          "actual_traffic_penalization_depth_cutoff": 10,
+          "predicted_primary_region_score": 20,
+          "crawl_score": 27,
+          "min_visits": 55,
+          "primary_visits": 21,
+          "uncrawled_papers_priority": 0.5,
+          "priority_papers": 2.5,
+          "payment_score": 1,
+          "bounce_score": 3
+        },
+        "defaultExponentialWeights": {
+          "for_conversion": 1.2,
+          "for_traffic_basic": 5.0,
+          "for_traffic_ratio": 10,
+          "for_primary": 51
+        },
+        "defaultQualityWeights": {
+          "num_top_dcs_results": 2.0,
+          "dcs_score": 0.1,
+          "conversion_score": 4.0,
+          "predicted_primary_region_score": 4.5
+        },
+        "defaultOtherParams": {
+          "related_content_count": 2.0,
+          "extra_related_count": 7.0,
+          "max_related_content": 45,
+          "span_replacement": 8.0,
+          "r_score_cutoff": 6.5,
+          "max_replacement_rate": 4.4,
+          "allow_topic_depth": 1
+        }
+      }
+    },
+    {
+      "version": "5",
+      "mode": 0,
+      "id": 15,
+      "simulatioconfigData": {
+        "defaultRatingWeights": {
+          "conversion_score": 23.5,
+          "predicted_traffic_score": 0.2,
+          "traffic_ratio": 1.5,
+          "traffic_log_value": 105,
+          "actual_traffic_penalization_depth_cutoff": 5,
+          "predicted_primary_region_score": 10.0,
+          "crawl_score": 12,
+          "min_visits": 210.2,
+          "primary_visits": 5,
+          "uncrawled_papers_priority": 0.8,
+          "priority_papers": 1.5,
+          "payment_score": 7,
+          "bounce_score": 0.3
+        },
+        "defaultExponentialWeights": {
+          "for_conversion": 21.0,
+          "for_traffic_basic": 1.0,
+          "for_traffic_ratio": 21.0,
+          "for_primary": 5
+        },
+        "defaultQualityWeights": {
+          "num_top_dcs_results": 20,
+          "dcs_score": 1.2,
+          "conversion_score": 3.0,
+          "predicted_primary_region_score": 1.5
+        },
+        "defaultOtherParams": {
+          "related_content_count": 0,
+          "extra_related_count": 10,
+          "max_related_content": 13,
+          "span_replacement": 30,
+          "r_score_cutoff": 4,
+          "max_replacement_rate": 0.4,
+          "allow_topic_depth": 3
+        }
+      }
+    },
+    {
+      "version": "4",
+      "mode": 0,
+      "id": 21,
+      "simulatioconfigData": {
+        "defaultRatingWeights": {
+          "conversion_score": 13.5,
+          "predicted_traffic_score": 10,
+          "traffic_ratio": 11.5,
+          "traffic_log_value": 1105,
+          "actual_traffic_penalization_depth_cutoff": 51,
+          "predicted_primary_region_score": 110.0,
+          "crawl_score": 121,
+          "min_visits": 101,
+          "primary_visits": 51,
+          "uncrawled_papers_priority": 10.8,
+          "priority_papers": 11.5,
+          "payment_score": 71,
+          "bounce_score": 0.13
+        },
+        "defaultExponentialWeights": {
+          "for_conversion": 11.0,
+          "for_traffic_basic": 11.0,
+          "for_traffic_ratio": 11.0,
+          "for_primary": 51
+        },
+        "defaultQualityWeights": {
+          "num_top_dcs_results": 810,
+          "dcs_score": 11.2,
+          "conversion_score": 12.0,
+          "predicted_primary_region_score": 11.5
+        },
+        "defaultOtherParams": {
+          "related_content_count": 110,
+          "extra_related_count": 10,
+          "max_related_content": 115,
+          "span_replacement": 30,
+          "r_score_cutoff": 0.5,
+          "max_replacement_rate": 1.4,
+          "allow_topic_depth": 31
+        }
+      }
+    }
+  ]
+}
